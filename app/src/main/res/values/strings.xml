@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyDoc</string>
+    <string name="espace_docteur">Espace Docteur</string>
+    <string name="espace_secretaire">Espace secretaire</string>
+    <string name="espace_patient">Espace patient</string>
+    <string name="login">LOGIN</string>
+    <string name="inscription">Inscription</string>
+    <string name="s_inscrir">S\'inscrir</string>
+    <string name="ajouter">+</string>
+    <string name="recherche">Recherche</string>
+    <string name="nom">NOM</string>
+    <string name="prenom">PRENOM</string>
+    <string name="e_mail">E-MAIL</string>
+    <string name="cin">CIN</string>
+    <string name="adresse">ADRESSE</string>
+    <string name="age">AGE</string>
+    <string name="telephone">TELEPHONE</string>
+    <string name="ajouter_patient">Ajouter</string>
+    <string name="signout">Signout</string>
+    <string name="numero_de_tel">Numero de tel</string>
+    <string name="date">Date</string>
+    <string name="heure">Heure</string>
+    <string name="ajouter_rdv">Ajouter RDV</string>
+    <string name="ajouter_rendez_vous">Ajouter Rendez-vous</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="consulter_les_patients">Consulter Les Patients</string>
+    <string name="effacer">Effacer</string>
+    <string name="modifier">Modifier</string>
+    <string name="ajouter_voter_cordonn_es">Ajouter voter cordonnées</string>
+    <string name="liste_des_patients">Liste des patients</string>
+    <string name="annuler">Annuler</string>
+    <string name="nom_de_patient">Nom de Patient</string>
+    <string name="patient_coding_com">Patient@Coding.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="notifucation">Notifucation</string>
+    <string name="call">Call</string>
+    <string name="localisation">Localisation</string>
+    <string name="communication">Communication</string>
+    <string name="info">Info</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="contact">Contact</string>
+    <string name="cabinet_mydoc">Cabinet : MyDoc</string>
+    <string name="phone_20665478">Phone : 20665478</string>
+    <string name="email_mydoc_contact_gmail_com">Email : Mydoc_contact@gmail.com</string>
+    <string name="site_http_www_google_com">Site : http//www.google.com</string>
+    <string name="secretairemydoc_gmail_com">SecretaireMyDoc@Gmail.com</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/med1"
+    android:orientation="vertical"
+    tools:context="EspaceDocteur">
+
+
+    <TextView
+        android:id="@+id/text_view_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textColor="#009688"
+        android:textSize="30sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/buttonAjouterPatient"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Ajouter un patient" />
+
+    <Button
+        android:id="@+id/buttonConsulterListPatients"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Consulter list des patient" />
+
+    <Button
+        android:id="@+id/buttonAjouterRDV"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Ajouter un rendez vous" />
+
+    <Button
+        android:id="@+id/buttonConsulterRDV"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Consulter liste des rendez-vous" />
+
+    <Button
+        android:id="@+id/buttonSignout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="60dp"
+        android:background="#FF9800"
+        android:onClick="signout"
+        android:text="Sign out" />
+</LinearLayout>
